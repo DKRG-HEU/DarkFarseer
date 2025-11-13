@@ -39,7 +39,6 @@ Then run:
 ```bash
 $ unzip datasets.zip
 ```
-
 ## Run Darkfarseer
 
 ```bash
