@@ -17,9 +17,6 @@
 ├── preprocessing  // Data preprocessing
 │   ├── process_AIR36.py
 │   ├── ...
-├── scripts  // Executable bash script
-│   ├── train_AIR36.sh
-│   ├── ...
 └── utils  // Utility file
     ├── utils.py
     └── ...
@@ -34,8 +31,11 @@ $ pip install -r requirements.txt
 ```
 
 ## Dataset Preparation
-Place execute:
 
+Download `datasets.zip` from
+> https://drive.google.com/file/d/1I7Vh625dpbtjOYuDI1JkO2rnKvIN5fes/view?usp=drive_link
+
+Then run:
 ```bash
 $ unzip datasets.zip
 ```
