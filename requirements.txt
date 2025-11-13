@@ -1,0 +1,7 @@
+torch==2.2.1
+scipy==1.10.0
+pandas
+einops
+scikit-learn
+tqdm
+tables
